@@ -1,2 +1,2 @@
 # SafeHome-system
-Same gui design related to safehome system
+Some gui design related to safehome system
