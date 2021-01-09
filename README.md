@@ -2,7 +2,7 @@
 Some gui design related to safehome system
 
 #Home page of the website
-![PNG](Home Page.png)
+![PNG](HomePage.png)
 
 #Login page of the website
 ![PNG](Login Page.png)
